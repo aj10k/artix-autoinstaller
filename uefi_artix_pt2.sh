@@ -39,5 +39,5 @@ passwd
 
 echo "Pre-Installation Finish"
 echo "Reboot then login; root, password just set"
-echo "curl -LO larbs.xyz/larbs.sh"
+echo "git clone https://github.com/aj10k/LARBS.git"
 echo "sudo sh larbs.sh"
